@@ -2,7 +2,7 @@
 
 A modern, fast, and completely private VCF (vCard) file viewer that runs entirely in your browser.
 
-**[Live Demo](https://loveleens.github.io/vcf-viewer/)** (Replace with your actual URL after deployment)
+**[Live Demo](https://lscherub.github.io/vcf-viewer/)**
 
 ## 🔒 Privacy First
 
